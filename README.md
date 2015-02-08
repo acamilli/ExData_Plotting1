@@ -1,5 +1,7 @@
 ## Introduction
 
+to run the scripts change the first line of the scripts to set the directory where the downloaded file household_power_consumption.txt is  
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
